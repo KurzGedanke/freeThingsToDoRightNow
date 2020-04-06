@@ -408,7 +408,9 @@ a, a:visited {
   color: #54306E;
   text-decoration: underline;
   font-size: 1.375rem;
-  font-weight: 700; }
+  font-weight: 700;
+  word-wrap: break-word;
+  word-break: break-all; }
 
 a:hover {
   color: #54306E;
@@ -487,7 +489,9 @@ footer {
 
 .footer__item {
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  flex-flow: wrap;
+  text-align: center; }
 
 .footer__made {
   display: flex;
