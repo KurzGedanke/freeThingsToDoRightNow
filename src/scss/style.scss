@@ -16,7 +16,21 @@
 
 // tags
 
-@import "tags/html";
+@import "tags/a";
 @import "tags/body";
 @import "tags/h1";
+@import "tags/h2";
+@import "tags/h3";
+@import "tags/header";
+@import "tags/html";
+@import "tags/li";
 @import "tags/p";
+@import "tags/ul";
+@import "tags/footer";
+
+// components
+
+@import "components/item";
+@import "components/intro";
+@import "components/text";
+@import "components/inner";

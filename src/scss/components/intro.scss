@@ -1,0 +1,8 @@
+.intro {
+    margin-top: rem(20px);
+    margin-bottom: rem(65px);
+
+    @include mq("tablet"){
+        margin-top: rem(50px);
+    };
+}

@@ -1,0 +1,14 @@
+.inner {
+    max-width: calc(32rem + 8vw);
+    margin: 0 auto;
+    padding: 0 2rem;
+
+    @include mq("phablet") {
+        max-width: calc(48rem + 8vw);
+        padding: 0 4rem;
+    }
+
+    @include mq("tablet") {
+        padding: 0 8rem;
+    }
+}
