@@ -1,13 +1,13 @@
 ## Free Coruses
 
+| UDEMY | Minima magni culpa commodi aut fugit praesentium eligendi sed. Odit expedita amet molestiae quis. Velit vel quis voluptatem est expedita nam. Nisi sed ut odit. Laudantium accusamus nobis ut. Vel nostrum quos aut non.… | [udemy.com](udemy.com) | 21.10.1994 | 21.10.1994 | Course |
+|----------|-----------------------|----------|------------|------------|-------|
+
 ## Music
 
 ## Tools
 
 ### Affinity Pdoructs
 
-- Affinity Products in a three month trial and 50% off in pruchase.
-- [https://affinity.serif.com/de/](https://affinity.serif.com/de/)
-- 20.03.2020
-- 20.04.2020
-- Art
+| Affinity | Minima magni culpa commodi aut fugit praesentium eligendi sed. Odit expedita amet molestiae quis. Velit vel quis voluptatem est expedita nam. Nisi sed ut odit. Laudantium accusamus nobis ut. Vel nostrum quos aut non.… | Affinity | 21.10.1994 | 21.10.1994 | ART |
+|----------|-----------------------|----------|------------|------------|-------|
