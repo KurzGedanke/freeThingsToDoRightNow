@@ -1,0 +1,31 @@
+{
+  "name": "freethingstodorightnow",
+  "version": "0.0.1",
+  "description": "To be written",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurzGedanke/freeThingsToDoRightNow.git"
+  },
+  "keywords": [
+    "to",
+    "be",
+    "written"
+  ],
+  "author": "Thore Jahn (KurzGedanke)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KurzGedanke/freeThingsToDoRightNow/issues"
+  },
+  "homepage": "https://github.com/KurzGedanke/freeThingsToDoRightNow#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
