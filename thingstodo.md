@@ -39,3 +39,23 @@
 - 🏁 Unkown
 - 📂 Linux
 </div>
+
+## Games
+
+<div class="item" markdown="1">
+### Various RPG Rulebooks (German) 
+- [prometheusgames.de](https://www.prometheusgames.de/verlag/2020/03/19/prometheus-games-in-der-zeit-von-covid-19/)
+- Prometheus Games offers RPG rule books as PDF for free
+- 🗓 2020/03/19
+- 🏁 unknown
+- 📂 Tabletop, RPG
+</div>
+
+<div class="item" markdown="1">
+### Midgard RPG Rulebooks (German) 
+- [midgard-online.de](https://midgard-online.de/verlag/neuigkeiten-archiv/details/items/regelwerk-kostenlos.html)
+- Midgard RPG rule books as PDF for free
+- 🗓 2020/04/06
+- 🏁 2020/04/30
+- 📂 Tabletop, RPG
+</div>
