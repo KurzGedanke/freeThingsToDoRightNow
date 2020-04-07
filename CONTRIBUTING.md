@@ -9,8 +9,8 @@ Please add a item in the following format, with the div includes. Do not forget 
 ### ITEM NAME
 - [itemWebsite.tld](https://itemWebsite.tld)
 - A brief discription of the service and what is free.
-- 🗓 Start date or date added to the list
-- 🏁 End date or time in which the service is aviable 
+- 🗓 Start date or date added to the list YYYY/MM/TT
+- 🏁 End date or time in which the service is aviable YYYY/MM/TT
 - 📂 Some sort of category
 </div>
 ```
