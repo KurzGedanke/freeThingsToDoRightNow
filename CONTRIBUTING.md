@@ -1,8 +1,4 @@
-# Free Things To Do Right Now
-
-At the moment we all have to stay at home. This can be very challenging. Luckily, some corporation are releasing their paid products for free. Ranging from music, movies, books, courses and a lot more. They are releasing so much that it can overwhelm to find something interesting. This list aims to help you find the best distraction, so the #StayAtHome is most enjoyable.
-
-## Contribute
+# Contributing
 
 FreeThingsToDo renders the list from a markdown file in the master branch of this reposetory. 
 
@@ -24,3 +20,13 @@ If you have any question please write me an e-mail or message me otherwise.
 - [freethingstodo@kurzgedanke.me](mailto:freethingstodo@kurzgedanke.me)
 - [Twitter @KurzGedanke](https://twitter.com/KurzGedanke)
 - [Mastodon chaos.social/@KurzGedanke](https://chaos.social/@KurzGedanke)
+
+## Contributors
+
+### Items
+
+- [Thore Jahn (KurzGedanke](https://twitter.com/KurzGedanke)
+
+### Code
+
+- [Thore Jahn (KurzGedanke](https://twitter.com/KurzGedanke)

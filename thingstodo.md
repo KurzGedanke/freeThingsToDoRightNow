@@ -3,9 +3,9 @@
 <div class="item" markdown="1">
 ### United We Stream
 - [unitedwestream.berlin](https://unitedwestream.berlin)
-- "United We Streams" tries to safe the Berlin clubbing culture. It is supported by the German Public Television and various outlets. Everyday you can listen to and watch different DJs around clubs in Berlin
+- "United We Streams" tries to save the Berlin clubbing culture. It is supported by the German Public Television and various outlets. Every day you can listen to and watch different DJs around clubs in Berlin.
 - 🗓 04.06.2020
-- 🏁 Unknwon
+- 🏁 Unknown
 - 📂 Electronical Music Stream
 </div>
 
