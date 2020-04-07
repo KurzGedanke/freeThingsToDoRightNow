@@ -43,6 +43,15 @@
 ## Games
 
 <div class="item" markdown="1">
+### Cards Against Humanity Family Edition
+- [cardsagainsthumanityfamilyedition.com](https://www.cardsagainsthumanityfamilyedition.com/)
+- A family friendly edition of the card game Cards Against Humanity. It is a PDF that needs to be printed
+- 🗓 2020/04/08
+- 🏁 unknown
+- 📂 Card game
+</div>
+
+<div class="item" markdown="1">
 ### Various RPG Rulebooks (German) 
 - [prometheusgames.de](https://www.prometheusgames.de/verlag/2020/03/19/prometheus-games-in-der-zeit-von-covid-19/)
 - Prometheus Games offers RPG rule books as PDF for free
