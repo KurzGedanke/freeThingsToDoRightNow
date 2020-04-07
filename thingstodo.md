@@ -22,7 +22,7 @@
 
 ## Courses
 
-<div class=„item“ markdown=„1“>
+<div class="item" markdown="1">
 ### Pluralsight
 - [pluralsight.com](https://www.pluralsight.com/offer/2020/free-april-month)
 - Build in-demand tech skills without leaving your house. Get free access to 7,000+ expert-led video courses and more all month long. 
